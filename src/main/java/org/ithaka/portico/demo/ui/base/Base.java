@@ -74,6 +74,8 @@ public class Base {
 			
 			contextMenuPage.notifications();
 			
+			//egit test comment
+			
 			Thread.sleep(4000);
 			
 			
